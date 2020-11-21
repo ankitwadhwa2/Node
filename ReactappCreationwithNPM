@@ -1,1 +1,8 @@
+npm install -g create-react-app
+create-react-app frontend
 
+npm run test
+npm run build
+npm run start
+
+Application will start on port 3000 by defailt so open it on EC2.
